@@ -1,6 +1,6 @@
 8-bit Snake Game with AVR!
 Complete with the schematic, board design, and the program!
-
+The board design can be implemented for other games, including tetris, car race and many more! (but no code yet...)
 Note:
 - The code is in C
 - Already working as intended, but the pcb still need cleaning and can be shrinked.
